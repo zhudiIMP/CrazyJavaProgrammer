@@ -1,4 +1,4 @@
-package cn.crazy.thread;
+package cn.crazy.thread.newthread;
 //继承Thread的新建线程的方式
 public class SecondThread {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package cn.crazy.thread;
+package cn.crazy.thread.newthread;
 //实现runnable接口方式新建线程
 public class FirstThread {
 	public static void main(String[] args) {
